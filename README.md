@@ -18,7 +18,7 @@ Bienvenue sur ma page de GitHub. Je...
 - 🎓 prévois d'obtenir mon diplôme à la fin d'avril en 2021. Je suis aussi à la recherche des emplois « New Grad ».
 - 💼 travail actuellement en tant qu'une assistante de recherche à temps partiel à SMR (Software Maintenance and Reuse) Lab à l'Université de l'Alberta.
 - 💻 était une stage à Intuit et a acquis un an d'expérience de développement Web.
-- 💬 suis disponible pour parler via patenio[at]ualberta[dot]ca ou sur [LinkedIn](https://www.linkedin.com/in/katherine-patenio/).
+- 💬 suis disponible pour parler via patenio[arobase]ualberta[point]ca ou sur [LinkedIn](https://www.linkedin.com/in/katherine-patenio/).
 
 <!--
 **kpatenio/kpatenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
