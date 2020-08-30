@@ -8,6 +8,8 @@ Welcome to my GitHub profile. I'm...
 - 💻 A former intern at Intuit; gained 1 year of frontend web development experience.
 - 💬 Available to talk at patenio[at]ualberta[dot]ca or on [LinkedIn](https://www.linkedin.com/in/katherine-patenio/).
 
+----
+
 ### Bonjour!  👋
 
 Bienvenue sur ma page de GitHub. Je...
