@@ -12,13 +12,13 @@ Welcome to my GitHub profile. I'm...
 
 ### Bonjour!  👋
 
-Bienvenue sur ma page de GitHub. Je...
+Bienvenue sur ma page de GitHub.
 
-- 📖 suis étudiante à l'Université de l'Alberta, avec une majeure en informatique et une mineure en français.
-- 🎓 prévois d'obtenir mon diplôme à la fin d'avril en 2021. Je suis aussi à la recherche des emplois « New Grad ».
-- 💼 travail actuellement en tant qu'une assistante de recherche à temps partiel à SMR (Software Maintenance and Reuse) Lab à l'Université de l'Alberta.
-- 💻 était une stage à Intuit et a acquis un an d'expérience de développement Web.
-- 💬 suis disponible pour parler via patenio[arobase]ualberta[point]ca ou sur [LinkedIn](https://www.linkedin.com/in/katherine-patenio/).
+- 📖 Je suis étudiante à l'Université de l'Alberta, avec une majeure en informatique et une mineure en français.
+- 🎓 Je prévois d'obtenir mon diplôme à la fin d'avril en 2021. Je suis aussi à la recherche des emplois « New Grad ».
+- 💼 Je travail actuellement en tant qu'une assistante de recherche à temps partiel à SMR (Software Maintenance and Reuse) Lab à l'Université de l'Alberta.
+- 💻 J'était une stage à Intuit et a acquis un an d'expérience de développement Web.
+- 💬 Je suis disponible pour parler via patenio[arobase]ualberta[point]ca ou sur [LinkedIn](https://www.linkedin.com/in/katherine-patenio/).
 
 <!--
 **kpatenio/kpatenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
