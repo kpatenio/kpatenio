@@ -1,24 +1,20 @@
 ### Hello!  👋
 
-Welcome to my GitHub profile. I'm...
+Who am I? I am a...
 
-- 📖 A student at the University of Alberta, majoring in Computing Science and minoring in French.
-- 🎓 Anticipating to graduate by end of June 2021, and on the search for New Grad opportunities!
-- 💼 Currently a part-time research assistant at SMR (Software Maintenance and Reuse) Lab at the University of Alberta.
-- 💻 A former intern at Intuit; gained 1 year of frontend web development experience.
-- 💬 Available to talk at patenio[at]ualberta[dot]ca or on [LinkedIn](https://www.linkedin.com/in/katherine-patenio/).
+- 🎓 Graduate from the University of Alberta with a BSc. in Computer Science + French minor
+- 💼 Software Engineer at Mozilla
+- 📖 Passionate language learner and video game hobbyist
 
 ----
 
 ### Bonjour!  👋
 
-Bienvenue sur ma page de GitHub.
+Qui suis-je ? Je suis...
 
-- 📖 Je suis étudiante à l'Université de l'Alberta, avec une majeure en informatique et une mineure en français.
-- 🎓 Je prévois d'obtenir mon diplôme à la fin de juin en 2021. Je suis aussi à la recherche des emplois « New Grad ».
-- 💼 Je travail actuellement en tant qu'une assistante de recherche à temps partiel à SMR (Software Maintenance and Reuse) Lab à l'Université de l'Alberta.
-- 💻 J'étais une stage à Intuit et a acquis un an d'expérience de développement Web.
-- 💬 Je suis disponible pour parler via patenio[arobase]ualberta[point]ca ou sur [LinkedIn](https://www.linkedin.com/in/katherine-patenio/).
+- 🎓 Diplomée de l'Université de l'Alberta, BSc. informatique et mineure en français
+- 💼 Développeur de logiciel chez Mozilla
+- 📖 Apprenante de langues et amatrice de jeux-vidéos
 
 <!--
 **kpatenio/kpatenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
