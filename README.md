@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a front-end developer working on several open-source projects.
+I'm a front-end developer working on open-source projects. I currently contribute to Firefox.
 
 Fun facts about me:
 - 🎓 I studied Computer Science and French as a university student
@@ -10,7 +10,7 @@ Fun facts about me:
 
 ### Bonjour 👋
 
-Je suis développeuse front-end travaillant sur plusieurs projets open-source.
+Je suis développeuse front-end travaillant sur des projets open-source. Je contribue présentement à Firefox.
 
 Quelques faits intéressants sur moi :
 - 🎓 J'ai étudié l'informatique et le français à l'université
