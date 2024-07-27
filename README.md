@@ -1,24 +1,20 @@
-### Hello!  👋
+### Hello 👋
 
-Who am I? I am a...
+I'm a front-end developer working on several open-source projects.
 
-- 🎓 Graduate from the University of Alberta with a BSc. in Computer Science + French minor (2021)
-- 💼 Software Engineer at Mozilla
-- 📖 Passionate language learner and video game hobbyist
-
-Any public gists, if any, will be available [here](https://gist.github.com/kpatenio).
+Fun facts about me:
+- 🎓 I studied Computer Science and French as a university student
+- 📖 I love language learning and video games
 
 ----
 
-### Bonjour!  👋
+### Bonjour 👋
 
-Qui suis-je ? Je suis...
+Je suis développeuse front-end travaillant sur plusieurs projets open-source.
 
-- 🎓 Diplomée de l'Université de l'Alberta, BSc. informatique et mineure en français (2021)
-- 💼 Développeur de logiciel chez Mozilla
-- 📖 Apprenante de langues et amatrice de jeux-vidéos
-
-Des gists publiques, s'il y en a, seront disponibles [ici](https://gist.github.com/kpatenio).
+Quelques faits intéressants sur moi :
+- 🎓 J'ai étudié l'informatique et le français à l'université
+- 📖 J'adore les langues et les jeux vidéo
 
 <!--
 **kpatenio/kpatenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
